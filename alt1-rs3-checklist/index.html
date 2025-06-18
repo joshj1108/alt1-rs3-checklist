@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>RS3 Checklist</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://alt1.app/alt1lib.js"></script>
+  <script>
+    if (window.alt1) alt1.identifyAppUrl("./appconfig.json");
+  </script>
+</head>
+<body>
+  <h1>RS3 Checklist</h1>
+  <div id="tabs">
+    <button onclick="switchCategory('dailies')">Dailies</button>
+    <button onclick="switchCategory('gathering')">Gathering</button>
+    <button onclick="switchCategory('weeklies')">Weeklies</button>
+    <button onclick="switchCategory('monthlies')">Monthlies</button>
+    <button onclick="switchCategory('resources')">More Resources</button>
+  </div>
+  <div id="checklist"></div>
+  <script src="app.js"></script>
+</body>
+</html>

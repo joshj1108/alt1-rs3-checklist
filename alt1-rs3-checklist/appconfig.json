@@ -1,0 +1,10 @@
+{
+  "name": "RS3 Daily Checklist",
+  "description": "Checklists for RS3 dailies, weeklies, and more.",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "category": "Tools",
+  "icon": "icon.png",
+  "main": "index.html",
+  "permissions": ["alt1"]
+}
