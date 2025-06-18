@@ -1,9 +1,9 @@
 {
   "name": "RS3 Daily Checklist",
   "description": "Checklists for RS3 dailies, weeklies, and more.",
-  "author": "Your Name",
+  "author": "Josh Jackson",
   "version": "1.0.0",
   "category": "Tools",
   "url": "index.html",
-  "permissions": ["alt1"]
+  "permissions": ["capture", "overlay"]
 }
