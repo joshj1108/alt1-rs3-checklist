@@ -5,6 +5,6 @@
   "version": "1.0.0",
   "category": "Tools",
   "icon": "icon.png",
-  "main": "index.html",
+  "url": "index.html",
   "permissions": ["alt1"]
 }
