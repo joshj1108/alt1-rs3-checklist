@@ -4,7 +4,6 @@
   "author": "Your Name",
   "version": "1.0.0",
   "category": "Tools",
-  "icon": "icon.png",
   "url": "index.html",
   "permissions": ["alt1"]
 }
